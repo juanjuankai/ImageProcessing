@@ -1,0 +1,26 @@
+﻿Build started 2015/9/24 12:44:09.
+     1>Project "D:\Pratice\Blog\ImageProcessing\ImageProcessing\ImageProcessing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ImageProcessing.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ImageProcessing.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ImageProcessing.cpp ImageProcessingDoc.cpp ImageProcessingView.cpp MainFrm.cpp
+         MainFrm.cpp
+         ImageProcessingView.cpp
+         ImageProcessingDoc.cpp
+         ImageProcessing.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\ImageProcessing.res" ImageProcessing.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Pratice\Blog\ImageProcessing\Debug\ImageProcessing.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Pratice\Blog\ImageProcessing\Debug\ImageProcessing.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Pratice\Blog\ImageProcessing\Debug\ImageProcessing.lib" /MACHINE:X86 Debug\ImageProcessing.res
+         Debug\ImageProcessing.obj
+         Debug\ImageProcessingDoc.obj
+         Debug\ImageProcessingView.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         ImageProcessing.vcxproj -> D:\Pratice\Blog\ImageProcessing\Debug\ImageProcessing.exe
+     1>Done Building Project "D:\Pratice\Blog\ImageProcessing\ImageProcessing\ImageProcessing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.40
