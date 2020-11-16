@@ -1,0 +1,5 @@
+##ignore this file##
+ipch/
+*.ilk
+*.pdb
+ImageProcessing/Debug
